@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "vite.config.ts",
               "ToolTip": "C:\\Users\\Dan\\source\\repos\\job-board\\vite.config.ts",
               "RelativeToolTip": "vite.config.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2025-08-16T01:18:54.607Z",
               "EditorCaption": ""
@@ -55,8 +55,7 @@
               "RelativeToolTip": "package-lock.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-16T01:18:50.001Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-16T01:18:50.001Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "package.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-16T01:18:49.263Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-16T01:18:49.263Z"
             }
           ]
         },
