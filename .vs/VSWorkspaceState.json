@@ -6,8 +6,7 @@
     "\\src",
     "\\src\\home",
     "\\src\\navigation",
-    "\\src\\profile",
-    "\\src\\Users"
+    "\\src\\profile"
   ],
   "SelectedNode": "\\amplify\\auth\\resource.ts",
   "PreviewInSolutionExplorer": false
