@@ -1,9 +1,18 @@
 import Example from './Example'; 
+import { createBrowserRouter, createRoutesFromElements, RouterProvider, Route } from 'react-router-dom';
+
+
+const router = createBrowserRouter(
+    createRoutesFromElements(
+        <Route path="/" element={<Example />} />
+    )
+);
+
 
 function App() {
     return (
         <main>
-            <Example/>
+            <RouterProvider router={router} />
         </main>
     );
 }
