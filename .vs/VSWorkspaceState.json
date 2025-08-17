@@ -5,8 +5,10 @@
     "\\amplify\\auth",
     "\\src",
     "\\src\\home",
-    "\\src\\navigation"
+    "\\src\\navigation",
+    "\\src\\profile",
+    "\\src\\Users"
   ],
-  "SelectedNode": "\\src\\App.tsx",
+  "SelectedNode": "\\amplify\\auth\\resource.ts",
   "PreviewInSolutionExplorer": false
 }
