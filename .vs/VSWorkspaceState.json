@@ -4,7 +4,8 @@
     "\\amplify",
     "\\amplify\\auth",
     "\\src",
-    "\\src\\home"
+    "\\src\\home",
+    "\\src\\navigation"
   ],
   "SelectedNode": "\\src\\App.tsx",
   "PreviewInSolutionExplorer": false

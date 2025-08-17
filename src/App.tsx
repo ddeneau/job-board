@@ -1,10 +1,17 @@
 import Example from './Example'; 
+import Home from './home/Home';  
+import Navigation from './navigation/Navigation';
 import { createBrowserRouter, createRoutesFromElements, RouterProvider, Route } from 'react-router-dom';
 
 
 const router = createBrowserRouter(
     createRoutesFromElements(
-        <Route path="/" element={<Example />} />
+        
+    <Route path="/" element={<Navigation />}>
+            <Route index element={<Example />} />
+            <Route path="/home" element={<Home />}/>
+    </Route>
+
     )
 );
 
