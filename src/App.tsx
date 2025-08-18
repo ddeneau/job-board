@@ -21,6 +21,7 @@ const router = createBrowserRouter(
                     {({ signOut, user }) => (
                         <main>
                             <h1>Hello {user?.username}</h1>
+                            <Profile/>
                             <button onClick={signOut}>Sign out</button>
                         </main>
                     )}
