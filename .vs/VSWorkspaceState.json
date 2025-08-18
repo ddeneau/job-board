@@ -3,10 +3,14 @@
     "",
     "\\amplify",
     "\\amplify\\auth",
+    "\\amplify\\data",
     "\\src",
-    "\\src\\home",
-    "\\src\\navigation"
+    "\\src\\board",
+    "\\src\\jobs",
+    "\\src\\navigation",
+    "\\src\\Profile",
+    "\\src\\Social"
   ],
-  "SelectedNode": "\\src\\App.tsx",
+  "SelectedNode": "\\amplify\\data\\resource.ts",
   "PreviewInSolutionExplorer": false
 }
