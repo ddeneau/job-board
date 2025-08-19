@@ -102,8 +102,7 @@
               "RelativeToolTip": "amplify\\backend.ts",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-08-18T01:08:14.813Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-18T01:08:14.813Z"
             },
             {
               "$type": "Document",
@@ -115,8 +114,7 @@
               "RelativeToolTip": "src\\board\\Board.tsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-08-18T00:09:10.404Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-18T00:09:10.404Z"
             },
             {
               "$type": "Document",
@@ -128,8 +126,7 @@
               "RelativeToolTip": "amplify\\data\\resource.ts",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-08-17T23:53:57.947Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-17T23:53:57.947Z"
             },
             {
               "$type": "Document",
@@ -165,8 +162,7 @@
               "RelativeToolTip": "src\\profile\\Profile.tsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-08-17T23:45:44.933Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-17T23:45:44.933Z"
             },
             {
               "$type": "Document",
@@ -190,8 +186,7 @@
               "RelativeToolTip": "src\\home\\Home.tsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-08-17T19:44:09.269Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-17T19:44:09.269Z"
             },
             {
               "$type": "Document",
@@ -213,7 +208,7 @@
               "RelativeDocumentMoniker": "src\\App.tsx",
               "ToolTip": "C:\\Users\\Dan\\source\\repos\\job-board\\src\\App.tsx",
               "RelativeToolTip": "src\\App.tsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2025-08-16T19:00:17.282Z",
               "EditorCaption": ""
