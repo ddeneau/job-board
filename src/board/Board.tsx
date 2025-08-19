@@ -1,13 +1,10 @@
 import { useEffect, useState } from "react";
 import type { Schema } from "../../amplify/data/resource";   
 import { generateClient } from "aws-amplify/data";
+import { Link } from "react-router-dom";
 
 
 const client = generateClient<Schema>();
-
-const divClass = "m-2";
-
-let jobid_counter = "0";
 
 
 function Board() {
@@ -19,23 +16,24 @@ function Board() {
             });
     }, []);
 
-    function createJob() {
-        client.models.jobPosting.create({ job_id: jobid_counter, job_title: window.prompt("Todo content") });
-        jobid_counter = (parseInt(jobid_counter) + 1).toString();
-    }
-
-
+ 
     return (
         <main>
-            <div className={divClass}>
-                <h1 className="font-family-sans">Job Board</h1>
-                <button onClick={createJob}>+ new job</button>
+            <div className="flex flex-col items-center justify-center h-full">
+                <h1 className="text-2xl font-bold mb-4">Jobs</h1>
+                <p className="text-gray-600">This is the Jobs page.</p>
+                <Link to="/newjob"></Link>
                 <ul>
                     {jobs.map((job) => (
-                        <li key={job.job_id}>{job.job_id}</li>
+                        <li key={job.job_id} className="mb-2">
+                            <p>
+                                {job.job_title}
+                            </p>
+                        </li>
                     ))}
                 </ul>
             </div>
+            );
         </main>
     );
 }
