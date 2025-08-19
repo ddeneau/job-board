@@ -1,6 +1,7 @@
 import Home from './home/Home'; 
 import Profile from './profile/Profile';
 import Board from './board/Board';
+import JobForm from './jobs/JobForm';
 import Social from './social/Social';   
 import Navigation from './navigation/Navigation';
 import { createBrowserRouter, createRoutesFromElements, RouterProvider, Route } from 'react-router-dom';
@@ -15,6 +16,7 @@ const router = createBrowserRouter(
             <Route index element={<Home/>} />
             <Route path="/home" element={<Home />} />
             <Route path="/board" element={<Board />} />
+            <Route path="/newjob" element={<JobForm />} />
             <Route path="/social" element={<Social />} />
             <Route path="/profile" element={
                 <Authenticator>
