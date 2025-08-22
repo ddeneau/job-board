@@ -1,14 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\amplify",
-    "\\amplify\\auth",
-    "\\amplify\\data",
     "\\src",
+    "\\src\\assets",
     "\\src\\board",
+    "\\src\\home",
     "\\src\\jobs",
-    "\\src\\navigation"
+    "\\src\\navigation",
+    "\\src\\profile",
+    "\\src\\shared",
+    "\\src\\social"
   ],
-  "SelectedNode": "\\src\\board\\JobCard.tsx",
+  "SelectedNode": "\\amplify.yml",
   "PreviewInSolutionExplorer": false
 }

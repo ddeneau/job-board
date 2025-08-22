@@ -1,4 +1,4 @@
-const outerStyle = "w-1/2 border border-neutral-700 flex flex-col my-10 py-10 pl-5"
+const outerStyle = "w-1/2 border border-neutral-700 flex flex-col my-10 py-10"
 // w-1/4 h-1/2 mx-3 my-3
 
 interface JobCardProps {
