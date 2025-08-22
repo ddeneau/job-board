@@ -2,6 +2,8 @@ import { Link, Outlet } from "react-router-dom";
 import { useEffect, useState } from "react";
 import type { Schema } from "../../amplify/data/resource";
 import { generateClient } from "aws-amplify/data";
+import JobCard from "./JobCard";
+
 
 const client = generateClient<Schema>();
 
@@ -23,7 +25,11 @@ function Board() {
                 <Link to="/newjob">New</Link><Outlet/>
                 <ul>
                     {jobs.map((job) => (
-                        <li key={job.job_id}>{job.job_title}</li>
+
+
+                        <JobCard job_title={job.job_title!} job_description="New Job!"></JobCard>
+
+                      
                     ))}
                 </ul>
             </div>

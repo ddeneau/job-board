@@ -1,6 +1,6 @@
 import Home from './home/Home'; 
 import Profile from './profile/Profile';
-import Board from './board/Board';
+import Board from "./board/Board";
 import JobForm from './board/JobForm';
 import Social from './social/Social';   
 import Navigation from './navigation/Navigation';
