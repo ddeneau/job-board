@@ -13,7 +13,7 @@ const components = {
     SignIn: {
         Header() {
             return (
-                <div className="">
+                <div className="bg-red">
                     <h2 className="font-medium">Sign In to Your Account</h2>
                 </div>
             );
@@ -23,26 +23,27 @@ const components = {
 
 const router = createBrowserRouter(
     createRoutesFromElements(
-        
-    <Route path="/" element={<Navigation />}>
-            <Route index element={<Home/>} />
-            <Route path="/home" element={<Home />} />
-            <Route path="/board" element={<Board />} />
-            <Route path="/newjob" element={<JobForm />} />
-            <Route path="/social" element={<Social />} />
-            <Route path="/profile" element={
-                <Authenticator className={authenticatorStyle} components={components}>
-                    {({ signOut, user }) => (
+     
+  
+            <Route path="/" element={<Navigation />}>
+                
+                <Route index element={<Home/>} />
+                <Route path="/home" element={<Home />} />
+                <Route path="/board" element={<Board />} />
+                <Route path="/newjob" element={<JobForm />} />
+                <Route path="/social" element={<Social />} />
+                <Route path="/profile" element={
+                    <Authenticator className={authenticatorStyle} components={components}>
+                        {({ signOut }) => (
                         <main>
-                            <h1>Hello {user?.username}</h1>
-                            <Profile/>
-                            <button onClick={signOut}>Sign out</button>
-                        </main>
-                    )}
-                </Authenticator>
-            } />
-    </Route>
-
+                            <h1>Hello</h1>
+                                <Profile/>
+                                <button onClick={signOut}>Sign out</button>
+                            </main>
+                        )}
+                    </Authenticator>
+                } />
+            </Route>
     )
 );
 

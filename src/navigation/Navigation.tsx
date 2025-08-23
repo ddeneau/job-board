@@ -1,4 +1,5 @@
 import { Link, Outlet } from "react-router-dom";
+import Header from "../shared/Header";
 
 const navClass = "justify-items-center";
 const ulClass = "pt-1 px-5 flex";
@@ -9,6 +10,7 @@ const linkClass = "text-center block border border-black rounded hover:border-gr
 function Navigation() {
     return (
         <nav className={navClass}>
+            <Header/>
             <ul className={ulClass}>
                 <li className={liClass}>
                     <Link className={linkClass} to="/">Home</Link>

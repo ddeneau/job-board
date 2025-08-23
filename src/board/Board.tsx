@@ -33,7 +33,6 @@ function Board() {
                     ))}
                 </ul>
             </div>
-            );
         </main>
     );
 }
