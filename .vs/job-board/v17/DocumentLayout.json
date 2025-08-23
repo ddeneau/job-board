@@ -7,68 +7,24 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\board\\Board.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dan\\source\\repos\\job-board\\src\\Example.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Example.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dan\\source\\repos\\job-board\\src\\board\\JobForm.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\board\\JobForm.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dan\\source\\repos\\job-board\\src\\board\\JobCard.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\board\\JobCard.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dan\\source\\repos\\job-board\\src\\App.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dan\\source\\repos\\job-board\\src\\profile\\Profile.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\profile\\Profile.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dan\\source\\repos\\job-board\\src\\home\\HomeCard.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\home\\HomeCard.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dan\\source\\repos\\job-board\\src\\home\\Home.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\home\\Home.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dan\\source\\repos\\job-board\\src\\shared\\Header.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\shared\\Header.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dan\\source\\repos\\job-board\\amplify\\backend.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:amplify\\backend.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dan\\source\\repos\\job-board\\amplify\\auth\\resource.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:amplify\\auth\\resource.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dan\\source\\repos\\job-board\\src\\navigation\\Navigation.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\navigation\\Navigation.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dan\\source\\repos\\job-board\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dan\\source\\repos\\job-board\\amplify.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:amplify.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dan\\source\\repos\\job-board\\amplify\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:amplify\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dan\\source\\repos\\job-board\\amplify\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:amplify\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dan\\source\\repos\\job-board\\amplify\\data\\resource.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:amplify\\data\\resource.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dan\\source\\repos\\job-board\\src\\board\\JobCard.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\board\\JobCard.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,76 +34,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 303,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Header.tsx",
-              "DocumentMoniker": "C:\\Users\\Dan\\source\\repos\\job-board\\src\\shared\\Header.tsx",
-              "RelativeDocumentMoniker": "src\\shared\\Header.tsx",
-              "ToolTip": "C:\\Users\\Dan\\source\\repos\\job-board\\src\\shared\\Header.tsx",
-              "RelativeToolTip": "src\\shared\\Header.tsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "resource.ts",
+              "DocumentMoniker": "C:\\Users\\Dan\\source\\repos\\job-board\\amplify\\data\\resource.ts",
+              "RelativeDocumentMoniker": "amplify\\data\\resource.ts",
+              "ToolTip": "C:\\Users\\Dan\\source\\repos\\job-board\\amplify\\data\\resource.ts",
+              "RelativeToolTip": "amplify\\data\\resource.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-08-22T13:44:05.948Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "backend.ts",
-              "DocumentMoniker": "C:\\Users\\Dan\\source\\repos\\job-board\\amplify\\backend.ts",
-              "RelativeDocumentMoniker": "amplify\\backend.ts",
-              "ToolTip": "C:\\Users\\Dan\\source\\repos\\job-board\\amplify\\backend.ts",
-              "RelativeToolTip": "amplify\\backend.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-08-22T13:12:34.308Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Profile.tsx",
-              "DocumentMoniker": "C:\\Users\\Dan\\source\\repos\\job-board\\src\\profile\\Profile.tsx",
-              "RelativeDocumentMoniker": "src\\profile\\Profile.tsx",
-              "ToolTip": "C:\\Users\\Dan\\source\\repos\\job-board\\src\\profile\\Profile.tsx",
-              "RelativeToolTip": "src\\profile\\Profile.tsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-08-22T00:32:48.989Z",
+              "WhenOpened": "2025-08-23T21:17:28.404Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 3,
               "Title": "resource.ts",
               "DocumentMoniker": "C:\\Users\\Dan\\source\\repos\\job-board\\amplify\\auth\\resource.ts",
               "RelativeDocumentMoniker": "amplify\\auth\\resource.ts",
               "ToolTip": "C:\\Users\\Dan\\source\\repos\\job-board\\amplify\\auth\\resource.ts",
               "RelativeToolTip": "amplify\\auth\\resource.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-08-22T00:32:37.872Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "App.tsx",
-              "DocumentMoniker": "C:\\Users\\Dan\\source\\repos\\job-board\\src\\App.tsx",
-              "RelativeDocumentMoniker": "src\\App.tsx",
-              "ToolTip": "C:\\Users\\Dan\\source\\repos\\job-board\\src\\App.tsx",
-              "RelativeToolTip": "src\\App.tsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-08-22T00:24:23.288Z",
+              "WhenOpened": "2025-08-23T21:17:24.655Z",
               "EditorCaption": ""
             },
             {
@@ -158,165 +70,53 @@
               "RelativeDocumentMoniker": "src\\board\\Board.tsx",
               "ToolTip": "C:\\Users\\Dan\\source\\repos\\job-board\\src\\board\\Board.tsx",
               "RelativeToolTip": "src\\board\\Board.tsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-08-19T05:41:49.208Z",
+              "WhenOpened": "2025-08-23T20:59:57.163Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "JobCard.tsx",
-              "DocumentMoniker": "C:\\Users\\Dan\\source\\repos\\job-board\\src\\board\\JobCard.tsx",
-              "RelativeDocumentMoniker": "src\\board\\JobCard.tsx",
-              "ToolTip": "C:\\Users\\Dan\\source\\repos\\job-board\\src\\board\\JobCard.tsx",
-              "RelativeToolTip": "src\\board\\JobCard.tsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-08-22T00:17:59.173Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "JobForm.tsx",
               "DocumentMoniker": "C:\\Users\\Dan\\source\\repos\\job-board\\src\\board\\JobForm.tsx",
               "RelativeDocumentMoniker": "src\\board\\JobForm.tsx",
               "ToolTip": "C:\\Users\\Dan\\source\\repos\\job-board\\src\\board\\JobForm.tsx",
               "RelativeToolTip": "src\\board\\JobForm.tsx",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAE0AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-08-19T05:51:05.044Z",
+              "WhenOpened": "2025-08-23T20:59:46.553Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "HomeCard.tsx",
-              "DocumentMoniker": "C:\\Users\\Dan\\source\\repos\\job-board\\src\\home\\HomeCard.tsx",
-              "RelativeDocumentMoniker": "src\\home\\HomeCard.tsx",
-              "ToolTip": "C:\\Users\\Dan\\source\\repos\\job-board\\src\\home\\HomeCard.tsx",
-              "RelativeToolTip": "src\\home\\HomeCard.tsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABkAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "JobCard.tsx",
+              "DocumentMoniker": "C:\\Users\\Dan\\source\\repos\\job-board\\src\\board\\JobCard.tsx",
+              "RelativeDocumentMoniker": "src\\board\\JobCard.tsx",
+              "ToolTip": "C:\\Users\\Dan\\source\\repos\\job-board\\src\\board\\JobCard.tsx",
+              "RelativeToolTip": "src\\board\\JobCard.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-08-22T13:58:57.602Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Home.tsx",
-              "DocumentMoniker": "C:\\Users\\Dan\\source\\repos\\job-board\\src\\home\\Home.tsx",
-              "RelativeDocumentMoniker": "src\\home\\Home.tsx",
-              "ToolTip": "C:\\Users\\Dan\\source\\repos\\job-board\\src\\home\\Home.tsx",
-              "RelativeToolTip": "src\\home\\Home.tsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-08-22T14:00:35.871Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "main.tsx",
-              "DocumentMoniker": "C:\\Users\\Dan\\source\\repos\\job-board\\src\\main.tsx",
-              "RelativeDocumentMoniker": "src\\main.tsx",
-              "ToolTip": "C:\\Users\\Dan\\source\\repos\\job-board\\src\\main.tsx",
-              "RelativeToolTip": "src\\main.tsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-08-22T13:52:13.472Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "amplify.yml",
-              "DocumentMoniker": "C:\\Users\\Dan\\source\\repos\\job-board\\amplify.yml",
-              "RelativeDocumentMoniker": "amplify.yml",
-              "ToolTip": "C:\\Users\\Dan\\source\\repos\\job-board\\amplify.yml",
-              "RelativeToolTip": "amplify.yml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-08-22T13:12:46.844Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Navigation.tsx",
-              "DocumentMoniker": "C:\\Users\\Dan\\source\\repos\\job-board\\src\\navigation\\Navigation.tsx",
-              "RelativeDocumentMoniker": "src\\navigation\\Navigation.tsx",
-              "ToolTip": "C:\\Users\\Dan\\source\\repos\\job-board\\src\\navigation\\Navigation.tsx",
-              "RelativeToolTip": "src\\navigation\\Navigation.tsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-08-19T05:41:47.191Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "package.json",
-              "DocumentMoniker": "C:\\Users\\Dan\\source\\repos\\job-board\\amplify\\package.json",
-              "RelativeDocumentMoniker": "amplify\\package.json",
-              "ToolTip": "C:\\Users\\Dan\\source\\repos\\job-board\\amplify\\package.json",
-              "RelativeToolTip": "amplify\\package.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-22T13:12:36.913Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "tsconfig.json",
-              "DocumentMoniker": "C:\\Users\\Dan\\source\\repos\\job-board\\amplify\\tsconfig.json",
-              "RelativeDocumentMoniker": "amplify\\tsconfig.json",
-              "ToolTip": "C:\\Users\\Dan\\source\\repos\\job-board\\amplify\\tsconfig.json",
-              "RelativeToolTip": "amplify\\tsconfig.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-22T13:12:38.269Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "resource.ts",
-              "DocumentMoniker": "C:\\Users\\Dan\\source\\repos\\job-board\\amplify\\data\\resource.ts",
-              "RelativeDocumentMoniker": "amplify\\data\\resource.ts",
-              "ToolTip": "C:\\Users\\Dan\\source\\repos\\job-board\\amplify\\data\\resource.ts",
-              "RelativeToolTip": "amplify\\data\\resource.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-08-21T03:29:46.993Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 209,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Example.tsx",
-              "DocumentMoniker": "C:\\Users\\Dan\\source\\repos\\job-board\\src\\Example.tsx",
-              "RelativeDocumentMoniker": "src\\Example.tsx",
-              "ToolTip": "C:\\Users\\Dan\\source\\repos\\job-board\\src\\Example.tsx",
-              "RelativeToolTip": "src\\Example.tsx",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBsAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-08-21T20:22:30.232Z",
+              "WhenOpened": "2025-08-23T20:59:44.783Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 1075,
-          "SelectedChildIndex": -1,
-          "Children": [
+            },
             {
-              "$type": "Bookmark",
-              "Name": "ST:9:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.tsx",
+              "DocumentMoniker": "C:\\Users\\Dan\\source\\repos\\job-board\\src\\App.tsx",
+              "RelativeDocumentMoniker": "src\\App.tsx",
+              "ToolTip": "C:\\Users\\Dan\\source\\repos\\job-board\\src\\App.tsx",
+              "RelativeToolTip": "src\\App.tsx",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-08-22T00:24:23.288Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:6:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             }
           ]
         }

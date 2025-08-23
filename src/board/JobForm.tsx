@@ -10,6 +10,7 @@ const client = generateClient<Schema>()
 
 function JobForm() {
     const [jobTitle, setJobTitle] = useState('');
+    const [jobDescription, setJobDescription] = useState('');
     const [isSubmitting, setIsSubmitting] = useState(false);
     const [message, setMessage] = useState('');
 
@@ -21,6 +22,7 @@ function JobForm() {
             await client.models.jobPosting.create({
                 job_id: "",
                 job_title: title,
+                job_description: jobDescription,
             });
             setMessage("Job created successfully!");
             setJobTitle(''); // Clear the input after successful submission
@@ -43,7 +45,12 @@ function JobForm() {
 
     const handleInputChange = (e: React.ChangeEvent<HTMLInputElement>) => {
         setJobTitle(e.target.value);
+
     };
+
+    const handleDescriptionChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+        setJobDescription(e.target.value);
+    }
 
     return (
         <div className="max-w-md mx-auto mt-10 p-6 bg-white rounded-lg border border-black rounded">
@@ -62,7 +69,19 @@ function JobForm() {
                         placeholder="Enter job title"
                         disabled={isSubmitting}
                     />
+                    <label className={labelStyle}>
+                        Job Description:
+                    </label>
+                    <input
+                        className={inputStyle}
+                        value={jobDescription}
+                        onChange={handleDescriptionChange}
+                        type="text"
+                        placeholder="Enter job description"
+                        disabled={isSubmitting}
+                    />
                 </div>
+
 
                 <div className="flex justify-center">
                     <button

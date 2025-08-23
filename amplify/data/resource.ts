@@ -22,7 +22,8 @@ const schema = a.schema({
     jobPosting: a
         .model({
             job_id: a.id().required(),
-            job_title: a.string(),
+            job_title: a.string().required(),
+            job_description: a.string().required(),
         }).authorization((allow) => [allow.publicApiKey()]),
 
 

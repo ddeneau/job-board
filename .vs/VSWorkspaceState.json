@@ -1,12 +1,12 @@
 {
   "ExpandedNodes": [
     "",
+    "\\amplify",
+    "\\amplify\\auth",
+    "\\amplify\\data",
+    "\\public",
     "\\src",
-    "\\src\\assets",
-    "\\src\\board",
-    "\\src\\home",
     "\\src\\jobs",
-    "\\src\\navigation",
     "\\src\\profile",
     "\\src\\shared",
     "\\src\\social"

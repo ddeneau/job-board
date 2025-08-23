@@ -4,6 +4,7 @@ import type { Schema } from "../../amplify/data/resource";
 import { generateClient } from "aws-amplify/data";
 import JobCard from "./JobCard";
 
+const listStyle = "grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-1";
 
 const client = generateClient<Schema>();
 
@@ -21,17 +22,17 @@ function Board() {
         <main>
             <div className="flex flex-col items-center justify-center h-full">
                 <h1 className="text-2xl font-bold mb-4">Jobs</h1>
-                <p className="text-gray-600">This is the Jobs page.</p>
-                <Link to="/newjob">New</Link><Outlet/>
-                <ul>
+                <p className="text-gray-600 m-3 mb-3">This is the Jobs page.</p>
+                <ul className={listStyle}>
                     {jobs.map((job) => (
 
 
-                        <JobCard job_title={job.job_title!} job_description="New Job!"></JobCard>
+                        <JobCard job_title={job.job_title!} job_description={job.job_description} ></JobCard>
 
                       
                     ))}
                 </ul>
+                <Link to="/newjob">New</Link><Outlet />
             </div>
         </main>
     );
